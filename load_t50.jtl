@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1668329542373,2040,login,200,OK,Thread Group 1-30,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2033,0,1710
+1668329542752,1661,login,200,OK,Thread Group 1-49,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,1654,0,1340
+1668329542192,2221,login,200,OK,Thread Group 1-21,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2214,0,1900
+1668329542173,2240,login,200,OK,Thread Group 1-20,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2238,0,1921
+1668329542631,1782,login,200,OK,Thread Group 1-43,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,1776,0,1461
+1668329542730,1683,login,200,OK,Thread Group 1-48,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,1676,0,1363
+1668329542532,1886,login,200,OK,Thread Group 1-38,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,1886,0,1562
+1668329542021,2402,login,200,OK,Thread Group 1-10,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2402,0,2077
+1668329542232,2192,login,200,OK,Thread Group 1-23,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2192,0,1866
+1668329542022,2403,login,200,OK,Thread Group 1-9,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2403,0,2074
+1668329542332,2094,login,200,OK,Thread Group 1-28,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2094,0,1766
+1668329542021,2407,login,200,OK,Thread Group 1-4,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2407,0,2077
+1668329542553,1878,login,200,OK,Thread Group 1-39,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,1878,0,1546
+1668329542272,2161,login,200,OK,Thread Group 1-25,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2161,0,1827
+1668329542021,2416,login,200,OK,Thread Group 1-11,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2416,0,2082
+1668329542432,2006,login,200,OK,Thread Group 1-33,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2006,0,1669
+1668329542021,2420,login,200,OK,Thread Group 1-5,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2420,0,2082
+1668329542452,1989,login,200,OK,Thread Group 1-34,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,1989,0,1652
+1668329542021,2422,login,200,OK,Thread Group 1-1,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2421,0,2082
+1668329542021,2422,login,200,OK,Thread Group 1-8,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2422,0,2083
+1668329542133,2312,login,200,OK,Thread Group 1-18,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2312,0,1973
+1668329542021,2463,login,200,OK,Thread Group 1-7,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2462,0,2087
+1668329542292,2191,login,200,OK,Thread Group 1-26,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2191,0,1816
+1668329542310,2336,login,200,OK,Thread Group 1-27,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,2336,0,2026
+1668329544415,378,getU,200,OK,Thread Group 1-43,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,378,0,0
+1668329544415,404,getU,200,OK,Thread Group 1-49,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,404,0,0
+1668329544415,412,getU,200,OK,Thread Group 1-20,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,412,0,0
+1668329544415,325,getU,200,OK,Thread Group 1-21,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,325,0,0
+1668329544415,348,getU,200,OK,Thread Group 1-48,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,348,0,0
+1668329544415,389,getU,200,OK,Thread Group 1-30,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,389,0,0
+1668329544418,420,getU,200,OK,Thread Group 1-38,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,420,0,0
+1668329544423,424,getU,200,OK,Thread Group 1-10,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,423,0,0
+1668329544424,424,getU,200,OK,Thread Group 1-23,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,424,0,0
+1668329544425,438,getU,200,OK,Thread Group 1-9,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,438,0,0
+1668329544426,443,getU,200,OK,Thread Group 1-28,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,443,0,0
+1668329544429,447,getU,200,OK,Thread Group 1-4,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,447,0,0
+1668329544431,458,getU,200,OK,Thread Group 1-39,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,458,0,0
+1668329544438,465,getU,200,OK,Thread Group 1-11,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,465,0,0
+1668329544434,474,getU,200,OK,Thread Group 1-25,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,474,0,0
+1668329544439,473,getU,200,OK,Thread Group 1-33,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,473,0,0
+1668329544441,487,getU,200,OK,Thread Group 1-5,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,487,0,0
+1668329544442,487,getU,200,OK,Thread Group 1-34,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,487,0,0
+1668329544443,488,getU,200,OK,Thread Group 1-1,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,488,0,0
+1668329544443,498,getU,200,OK,Thread Group 1-8,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,498,0,0
+1668329544445,498,getU,200,OK,Thread Group 1-18,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,498,0,0
+1668329544485,469,getU,200,OK,Thread Group 1-26,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,469,0,0
+1668329544485,484,getU,200,OK,Thread Group 1-7,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,484,0,0
+1668329544648,321,getU,200,OK,Thread Group 1-27,text,true,,415,186,50,50,https://restful-booker.herokuapp.com/booking/514,321,0,0
+1668329542052,3312,login,200,OK,Thread Group 1-14,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,3312,0,3006
+1668329542031,3342,login,200,OK,Thread Group 1-13,text,true,,271,255,50,50,https://restful-booker.herokuapp.com/auth,3342,0,3028
+1668329544845,630,getU,404,Not Found,Thread Group 1-20,text,false,,7573,168,50,50,https://reqres.in/%20api/users,629,0,188
+1668329544929,545,getU,404,Not Found,Thread Group 1-5,text,false,,7573,168,50,50,https://reqres.in/%20api/users,543,0,104
+1668329544904,580,getU,404,Not Found,Thread Group 1-11,text,false,,7573,168,50,50,https://reqres.in/%20api/users,578,0,157
+1668329544971,512,getU,404,Not Found,Thread Group 1-7,text,false,,7581,168,50,50,https://reqres.in/%20api/users,511,0,69
+1668329544845,651,getU,404,Not Found,Thread Group 1-48,text,false,,7571,168,46,46,https://reqres.in/%20api/users,651,0,215
+1668329544890,610,getU,404,Not Found,Thread Group 1-39,text,false,,7583,168,45,45,https://reqres.in/%20api/users,609,0,174
+1668329544845,681,getU,404,Not Found,Thread Group 1-49,text,false,,7571,168,44,44,https://reqres.in/%20api/users,680,0,190
+1668329544848,681,getU,404,Not Found,Thread Group 1-10,text,false,,7577,168,43,43,https://reqres.in/%20api/users,681,0,214
+1668329544864,677,getU,404,Not Found,Thread Group 1-9,text,false,,7573,168,42,42,https://reqres.in/%20api/users,676,0,180
+1668329544913,640,getU,404,Not Found,Thread Group 1-33,text,false,,7577,168,41,41,https://reqres.in/%20api/users,640,0,129
+1668329544942,618,getU,404,Not Found,Thread Group 1-8,text,false,,7573,168,40,40,https://reqres.in/%20api/users,592,0,122
+1668329544909,651,getU,404,Not Found,Thread Group 1-25,text,false,,7571,168,40,40,https://reqres.in/%20api/users,629,0,157
+1668329544956,607,getU,404,Not Found,Thread Group 1-26,text,false,,7575,168,39,39,https://reqres.in/%20api/users,606,0,103
+1668329544931,632,getU,404,Not Found,Thread Group 1-34,text,false,,7577,168,38,38,https://reqres.in/%20api/users,631,0,104
+1668329544846,724,getU,404,Not Found,Thread Group 1-21,text,false,,7579,168,36,36,https://reqres.in/%20api/users,724,0,219
+1668329542492,3084,login,200,OK,Thread Group 1-36,text,true,,271,255,35,35,https://restful-booker.herokuapp.com/auth,3084,0,2776
+1668329544877,708,getU,404,Not Found,Thread Group 1-4,text,false,,7573,168,35,35,https://reqres.in/%20api/users,707,0,161
+1668329544849,741,getU,404,Not Found,Thread Group 1-23,text,false,,7569,168,34,34,https://reqres.in/%20api/users,740,0,187
+1668329544971,635,getU,404,Not Found,Thread Group 1-27,text,false,,7571,168,33,33,https://reqres.in/%20api/users,634,0,70
+1668329544845,772,getU,404,Not Found,Thread Group 1-43,text,false,,7571,168,32,32,https://reqres.in/%20api/users,771,0,218
+1668329544845,776,getU,404,Not Found,Thread Group 1-38,text,false,,7571,168,31,31,https://reqres.in/%20api/users,774,0,213
+1668329544845,776,getU,404,Not Found,Thread Group 1-30,text,false,,7575,168,31,31,https://reqres.in/%20api/users,774,0,195
+1668329544870,755,getU,404,Not Found,Thread Group 1-28,text,false,,7577,168,29,29,https://reqres.in/%20api/users,752,0,195
+1668329544932,701,getU,404,Not Found,Thread Group 1-1,text,false,,7575,168,28,28,https://reqres.in/%20api/users,700,0,128
+1668329544944,691,getU,404,Not Found,Thread Group 1-18,text,false,,7573,168,28,28,https://reqres.in/%20api/users,689,0,115
+1668329545365,326,getU,200,OK,Thread Group 1-14,text,true,,415,186,26,26,https://restful-booker.herokuapp.com/booking/514,326,0,0
+1668329545374,336,getU,200,OK,Thread Group 1-13,text,true,,415,186,26,26,https://restful-booker.herokuapp.com/booking/514,336,0,0
+1668329542690,3082,login,200,OK,Thread Group 1-46,text,true,,271,255,26,26,https://restful-booker.herokuapp.com/auth,3082,0,2743
+1668329542512,3314,login,200,OK,Thread Group 1-37,text,true,,271,255,26,26,https://restful-booker.herokuapp.com/auth,3314,0,2955
+1668329542021,3808,login,200,OK,Thread Group 1-12,text,true,,271,255,26,26,https://restful-booker.herokuapp.com/auth,3808,0,3444
+1668329545577,314,getU,200,OK,Thread Group 1-36,text,true,,415,186,26,26,https://restful-booker.herokuapp.com/booking/514,314,0,0
+1668329545773,321,getU,200,OK,Thread Group 1-46,text,true,,415,186,26,26,https://restful-booker.herokuapp.com/booking/514,321,0,0
+1668329545827,319,getU,200,OK,Thread Group 1-37,text,true,,415,186,26,26,https://restful-booker.herokuapp.com/booking/514,319,0,0
+1668329545830,320,getU,200,OK,Thread Group 1-12,text,true,,415,186,26,26,https://restful-booker.herokuapp.com/booking/514,320,0,0
+1668329545694,475,getU,404,Not Found,Thread Group 1-14,text,false,,7575,168,26,26,https://reqres.in/%20api/users,471,0,37
+1668329545713,534,getU,404,Not Found,Thread Group 1-13,text,false,,7581,168,25,25,https://reqres.in/%20api/users,532,0,77
+1668329542769,3490,login,200,OK,Thread Group 1-50,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3490,0,3182
+1668329542413,3989,login,200,OK,Thread Group 1-32,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3989,0,3681
+1668329542351,4065,login,200,OK,Thread Group 1-29,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4065,0,3760
+1668329542671,3753,login,200,OK,Thread Group 1-45,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3753,0,3446
+1668329542268,4164,login,200,OK,Thread Group 1-24,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4164,0,3851
+1668329542070,4368,login,200,OK,Thread Group 1-15,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4368,0,4053
+1668329542111,4327,login,200,OK,Thread Group 1-17,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4327,0,4015
+1668329542392,4046,login,200,OK,Thread Group 1-31,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4046,0,3729
+1668329542653,3797,login,200,OK,Thread Group 1-44,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3797,0,3481
+1668329542091,4362,login,200,OK,Thread Group 1-16,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4361,0,4043
+1668329542021,4439,login,200,OK,Thread Group 1-2,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4439,0,4113
+1668329542471,4003,login,200,OK,Thread Group 1-35,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4003,0,3668
+1668329542572,3902,login,200,OK,Thread Group 1-40,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3902,0,3566
+1668329542022,4456,login,200,OK,Thread Group 1-3,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4456,0,4124
+1668329542152,4326,login,200,OK,Thread Group 1-19,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4326,0,3992
+1668329542210,4271,login,200,OK,Thread Group 1-22,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4271,0,3939
+1668329542021,4463,login,200,OK,Thread Group 1-6,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,4463,0,4125
+1668329542593,3925,login,200,OK,Thread Group 1-41,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3925,0,3574
+1668329542710,3814,login,200,OK,Thread Group 1-47,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3814,0,3495
+1668329542612,3940,login,200,OK,Thread Group 1-42,text,true,,271,255,24,24,https://restful-booker.herokuapp.com/auth,3940,0,3636
+1668329546097,462,getU,404,Not Found,Thread Group 1-46,text,false,,7571,168,24,24,https://reqres.in/%20api/users,461,0,43
+1668329546259,314,getU,200,OK,Thread Group 1-50,text,true,,415,186,23,23,https://restful-booker.herokuapp.com/booking/514,314,0,0
+1668329545893,686,getU,404,Not Found,Thread Group 1-36,text,false,,7591,168,23,23,https://reqres.in/%20api/users,510,0,28
+1668329546149,460,getU,404,Not Found,Thread Group 1-37,text,false,,7571,168,22,22,https://reqres.in/%20api/users,460,0,41
+1668329546153,495,getU,404,Not Found,Thread Group 1-12,text,false,,7571,168,21,21,https://reqres.in/%20api/users,494,0,43
+1668329546403,314,getU,200,OK,Thread Group 1-32,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,313,0,0
+1668329546417,312,getU,200,OK,Thread Group 1-29,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,312,0,0
+1668329546425,315,getU,200,OK,Thread Group 1-45,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,315,0,0
+1668329546433,315,getU,200,OK,Thread Group 1-24,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,315,0,0
+1668329546440,323,getU,200,OK,Thread Group 1-17,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,323,0,0
+1668329546440,333,getU,200,OK,Thread Group 1-15,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,333,0,0
+1668329546440,342,getU,200,OK,Thread Group 1-31,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,342,0,0
+1668329546451,345,getU,200,OK,Thread Group 1-44,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,345,0,0
+1668329546453,360,getU,200,OK,Thread Group 1-16,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,360,0,0
+1668329546460,366,getU,200,OK,Thread Group 1-2,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,366,0,0
+1668329546474,365,getU,200,OK,Thread Group 1-40,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,365,0,0
+1668329546478,372,getU,200,OK,Thread Group 1-3,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,372,0,0
+1668329546474,376,getU,200,OK,Thread Group 1-35,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,376,0,0
+1668329546478,379,getU,200,OK,Thread Group 1-19,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,379,0,0
+1668329546481,385,getU,200,OK,Thread Group 1-22,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,385,0,0
+1668329546485,397,getU,200,OK,Thread Group 1-6,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,397,0,0
+1668329546519,369,getU,200,OK,Thread Group 1-41,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,369,0,0
+1668329546525,371,getU,200,OK,Thread Group 1-47,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,371,0,0
+1668329546553,351,getU,200,OK,Thread Group 1-42,text,true,,415,186,20,20,https://restful-booker.herokuapp.com/booking/514,351,0,0
+1668329546574,479,getU,404,Not Found,Thread Group 1-50,text,false,,7585,168,20,20,https://reqres.in/%20api/users,477,0,30
+1668329546720,504,getU,404,Not Found,Thread Group 1-32,text,false,,7573,168,19,19,https://reqres.in/%20api/users,501,0,40
+1668329546743,483,getU,404,Not Found,Thread Group 1-45,text,false,,7573,168,19,19,https://reqres.in/%20api/users,482,0,29
+1668329546732,495,getU,404,Not Found,Thread Group 1-29,text,false,,7571,168,19,19,https://reqres.in/%20api/users,493,0,37
+1668329546765,462,getU,404,Not Found,Thread Group 1-17,text,false,,7585,168,19,19,https://reqres.in/%20api/users,460,0,23
+1668329546752,476,getU,404,Not Found,Thread Group 1-24,text,false,,7575,168,19,19,https://reqres.in/%20api/users,473,0,26
+1668329546783,455,getU,404,Not Found,Thread Group 1-31,text,false,,7581,168,14,14,https://reqres.in/%20api/users,453,0,19
+1668329546797,449,getU,404,Not Found,Thread Group 1-44,text,false,,7579,168,13,13,https://reqres.in/%20api/users,448,0,20
+1668329546774,474,getU,404,Not Found,Thread Group 1-15,text,false,,7579,168,13,13,https://reqres.in/%20api/users,471,0,21
+1668329546814,441,getU,404,Not Found,Thread Group 1-16,text,false,,7577,168,11,11,https://reqres.in/%20api/users,441,0,21
+1668329546840,452,getU,404,Not Found,Thread Group 1-40,text,false,,7577,168,10,10,https://reqres.in/%20api/users,451,0,29
+1668329546852,448,getU,404,Not Found,Thread Group 1-3,text,false,,7580,168,9,9,https://reqres.in/%20api/users,447,0,27
+1668329546852,459,getU,404,Not Found,Thread Group 1-35,text,false,,7581,168,8,8,https://reqres.in/%20api/users,458,0,24
+1668329546858,479,getU,404,Not Found,Thread Group 1-19,text,false,,7577,168,7,7,https://reqres.in/%20api/users,477,0,29
+1668329546867,471,getU,404,Not Found,Thread Group 1-22,text,false,,7579,168,7,7,https://reqres.in/%20api/users,470,0,28
+1668329546889,478,getU,404,Not Found,Thread Group 1-41,text,false,,7569,168,5,5,https://reqres.in/%20api/users,476,0,27
+1668329546897,471,getU,404,Not Found,Thread Group 1-47,text,false,,7575,168,5,5,https://reqres.in/%20api/users,470,0,26
+1668329546827,672,getU,404,Not Found,Thread Group 1-2,text,false,,7593,168,3,3,https://reqres.in/%20api/users,464,0,23
+1668329546884,675,getU,404,Not Found,Thread Group 1-6,text,false,,7574,168,2,2,https://reqres.in/%20api/users,464,0,24
+1668329546905,675,getU,404,Not Found,Thread Group 1-42,text,false,,7576,168,1,1,https://reqres.in/%20api/users,467,0,26
